@@ -1,8 +1,4 @@
-'''
-Created on Jan 16, 2017
 
-@author: vishnu.sk
-'''
 from rest_framework import viewsets
 from rest_framework.response import Response
 from rest_framework import permissions
